@@ -2,6 +2,11 @@
 
 ## Objectives
 
+## How To Run
+- open terminal
+- enter npm start and press return on the keyboard
+- app should run on a localhost
+
 By the end of this project you will:
 
 - clone a Github project.
